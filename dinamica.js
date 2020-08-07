@@ -16,3 +16,12 @@ console.log(caracteres);
 let salarioMinimo = 1045.00;
 console.log(salarioMinimo);
 
+let membros = [
+    "Alessandro","Airton","Cosme","Daniele","Thassia","Vinícius"
+];
+console.table(membros);
+
+let quantidadedemembros = membros.length
+console.log(quantidadedemembros)
+
+
