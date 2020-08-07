@@ -21,7 +21,33 @@ let membros = [
 ];
 console.table(membros);
 
-let quantidadedemembros = membros.length
-console.log(quantidadedemembros)
+let quantidadedemembros = membros.length;
+console.log(quantidadedemembros);
+
+
+let membrosCor = [ {
+  nome: "Alessandro",
+  cor: "rosa"
+},{
+  nome: "Airton",
+  cor: "azul"
+}, {
+  nome:"Cosme",
+  cor: "preto"
+}, {
+  nome: "Daniele",
+  cor: "roxo"
+}, {
+  nome: "Thassia",
+  cor: "vermelho"
+}, {
+  nome: "Vinícius",
+  cor: "amarelo"
+}, {
+  nome: "Rafael",
+  cor: "verde"
+}];
+
+console.table(membrosCor);
 
 
