@@ -51,3 +51,19 @@ let membrosCor = [ {
 console.table(membrosCor);
 
 
+let multiplicador = 7
+let numeros = [
+    0,1,2,3,4,5,6,7,8,9,10
+]
+console.log(`${multiplicador} * ${numeros[0]} = ${multiplicador*numeros[0]}`)
+console.log(`${multiplicador} * ${numeros[1]} = ${multiplicador*numeros[1]}`)
+console.log(`${multiplicador} * ${numeros[2]} = ${multiplicador*numeros[2]}`)
+console.log(`${multiplicador} * ${numeros[3]} = ${multiplicador*numeros[3]}`)
+console.log(`${multiplicador} * ${numeros[4]} = ${multiplicador*numeros[4]}`)
+console.log(`${multiplicador} * ${numeros[5]} = ${multiplicador*numeros[5]}`)
+console.log(`${multiplicador} * ${numeros[6]} = ${multiplicador*numeros[6]}`)
+console.log(`${multiplicador} * ${numeros[7]} = ${multiplicador*numeros[7]}`)
+console.log(`${multiplicador} * ${numeros[8]} = ${multiplicador*numeros[8]}`)
+console.log(`${multiplicador} * ${numeros[9]} = ${multiplicador*numeros[9]}`)
+console.log(`${multiplicador} * ${numeros[10]} = ${multiplicador*numeros[10]}`)
+
