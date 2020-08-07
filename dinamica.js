@@ -11,3 +11,8 @@ console.log(data)
 let dia = data.getDay()
 let mes = data.getMonth()
 console.log(`${dia} / ${mes}`)
+let caracteres = texto.length;
+console.log(caracteres);
+let salarioMinimo = 1045.00;
+console.log(salarioMinimo);
+
